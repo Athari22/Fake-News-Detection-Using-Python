@@ -13,7 +13,7 @@ To build a model to accurately classify a piece of news as REAL or FAKE.
 ## Dataset
 This [dataset](https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view) has a shape of 7796×4. The first column identifies the news, the second and third are the title and text, and the fourth column has labels denoting whether the news is REAL or FAKE. The dataset takes up 29.2MB of space.
 
-Part One:
+## Part One:
 - Using TfidfVectorizer to convert a collection of raw documents into a matrix of TF-IDF features.
 - Using Passive Aggressive algorithms (online learning algorithms) for the purpose is to make updates that correct the loss.
 - Build confusion matrix.
@@ -24,6 +24,6 @@ Using Natural language processing for display the reveal structure and meaning o
 ![image]()
 
 
-##Ref:
+## Ref:
 1. https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/
 2. https://www.thepythoncode.com/article/fake-news-classification-in-python   
