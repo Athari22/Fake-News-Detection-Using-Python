@@ -21,7 +21,7 @@ This [dataset](https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q
 
 ## Part Two:
 Using Natural language processing for display the reveal structure and meaning of text.
-![image]()
+![image](https://github.com/Athari22/Fake-News-Detection-Using-Python/blob/main/nlp.png)
 
 
 ## Ref:
