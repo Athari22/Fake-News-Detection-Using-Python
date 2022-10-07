@@ -17,7 +17,7 @@ This [dataset](https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q
 - Using TfidfVectorizer to convert a collection of raw documents into a matrix of TF-IDF features.
 - Using Passive Aggressive algorithms (online learning algorithms) for the purpose is to make updates that correct the loss.
 - Build confusion matrix.
-![image]()
+![image](https://github.com/Athari22/Fake-News-Detection-Using-Python/blob/main/can_m.png)
 
 ## Part Two:
 Using Natural language processing for display the reveal structure and meaning of text.
